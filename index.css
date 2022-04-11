@@ -1,0 +1,105 @@
+/*Editing the conatiner Margin*/
+#Container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Franklin Gothic Medium';
+    color: #2C3B57;
+}
+
+/*Editing the Harder*/
+#Header h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #2C3B57;
+}
+
+#Header p{
+    font-size: 30px;
+    font-style: italic;
+}
+
+/*Editing the Line*/
+#line-1, #line-2, #line-3, #line-4, #line-5, #line-6, #line-7, #line-8, #line-9, #line-10{
+    background-color: #2C3B57;
+    border-width: 3px;
+}
+
+/*Editing the contacts*/
+#Contacts table{
+ width: 100%;
+ color: black;
+ font-size: 20px;
+}
+
+/*Editing the Bio*/
+#Bio{
+    line-height: 30px;
+    font-size: 20px;
+    color: black;
+}
+/*Editing the education data*/
+#Education-Data{
+    font-size: 20px;
+}
+
+#Education-Data .Table1, .Table2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 100%;
+    color: black;
+}
+/*Editing the Skills data*/
+#Skills table{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom:30px;
+    color: black;
+}
+/*Editing the Soft Skills data*/
+#Soft-Skills table{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom:30px;
+    color: black;
+}
+/*Editing the Soft Cources data*/
+#Course1 h6,#Course2 h6,#Course3 h6,#Course4 h6,#Course5 h6{
+    font-style: italic;
+}
+#Course1,#Course2,#Course3,#Course4,#Course5{
+    color: black;
+}
+/*Editing the Achievements data*/
+#Achievements{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#Certificate1 h6,#Certificate2 h6,#Certificate3 h6{
+    font-style: italic;
+    color: black;
+}
+#Certificate1,#Certificate2,#Certificate3{
+    color: black;
+}
+/*Editing the Project Data*/
+.pro{
+    color: black;
+}
+/*Editing the Lnaguages Data*/
+#Languages table{
+    width: 100%;
+    color: black;
+    font-size: 20px;
+}
+
+
+
+#Interest table{
+    width:100%;
+    color: black;
+    font-size: 20px;
+}
